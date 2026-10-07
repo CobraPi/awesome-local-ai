@@ -27,6 +27,7 @@
 
 ## Desktop & Web UIs (22)
 - [Open WebUI](https://openwebui.com) – Official gorgeous frontend for Ollama
+- [Practical Web Tools — AI Chat](https://practicalwebtools.com/tools/ai-chat) – Browser AI chat that connects to local models (Ollama/LM Studio), no server processing of conversations
 - [LobeChat](https://lobechat.com) – Modern multi-model chat UI with local backends
 - [Chainlit](https://chainlit.io) – Build conversational AI apps fast
 - [Gradio](https://gradio.app) – Instant web demos for any model
